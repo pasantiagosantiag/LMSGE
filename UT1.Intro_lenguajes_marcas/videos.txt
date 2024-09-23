@@ -1,0 +1,6 @@
+UPV Xml I. https://www.youtube.com/watch?v=78nlFo0W_2I
+UPV Xml II. https://www.youtube.com/watch?v=nO9KycWFClM. Algo desfasado en cuanto a los lenguajes.
+UCAM Latex (Recomendado). https://www.youtube.com/watch?v=SrtjhSpv6qs
+UA. Sergio Lujan.  Espacio de nombres en XML o namespaces. https://www.youtube.com/watch?v=YGFcD3-WO6c&list=PLKLLGxMgKZ_QCcAMbq8L9dEXa6hMdb1q5
+UA. Sergio Lujan. Uso de namepace. https://www.youtube.com/watch?v=2Hw-4QDySiA&list=PLKLLGxMgKZ_QCcAMbq8L9dEXa6hMdb1q5&index=2
+Formato JSON: https://www.youtube.com/watch?v=RhxOTqFbI5Q
